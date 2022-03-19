@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e6madeit
 - 👀 I’m interested in Machine Learning and Web/Software Development
-- 🌱 I’m currently learning Java and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything Python-related.
 
 <!---
 e6madeit/e6madeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
